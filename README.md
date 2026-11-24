@@ -1,6 +1,13 @@
 # Scene3D-MakecodeArcade
 A simple 3D engine I shamefully made . . . 
 
+This repository can be added as an extension in MakeCode.
+
+open https://arcade.makecode.com/
+click on New Project
+click on Extensions under the gearwheel menu
+search for (https://github.com/Teaeat/Scene3D-MakecodeArcade/) and import
+
 A real triangle-mesh 3D engine (not raycasting, not Mode 7). Build a world out of triangles, walk a character around it, and collide with every triangle.
 
 * **Meshes** - any pile of triangles, with position / rotation / scale and parenting
