@@ -1,0 +1,23 @@
+{
+    "name": "3d-engine",
+    "description": "A real triangle-mesh 3D engine: meshes, ground, walls, character models, cameras and collision.",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "README.md",
+        "mesh.ts",
+        "camera.ts",
+        "collision.ts",
+        "render.ts",
+        "humanoid.ts",
+        "scene3d.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "arcade"
+    ],
+    "public": true
+}
